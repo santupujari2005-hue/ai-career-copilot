@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Career Copilot
 
 A production-ready web application that helps users upload resumes, analyze them with AI, identify skill gaps, generate career roadmaps, prepare for interviews, and track career progress.
@@ -130,3 +131,7 @@ npm run db:seed      # Seed skills data
 ## License
 
 MIT
+=======
+# ai-career-copilot
+ai-career-copilot resume-analyzer career-guidance ats-score interview-preparation nextjs typescript prisma sqlite openai full-stack-project
+>>>>>>> ee25142c889baff3f7274005f67bba4b7e57ab35
